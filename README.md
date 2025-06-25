@@ -21,9 +21,10 @@ Saya adalah manusia yang sedang belajar dan membangun aplikasi mobile dan web mo
 
 ## 📈 Statistik GitHub
 
-<p align="center">
+<p align="center" >
   <img src="https://github-readme-stats.vercel.app/api?username=ariyalex&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyalex&theme=github-dark-blue" width="48%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyalex&theme=github-dark-blue" width="48%" /> -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyalex&layout=compact&include_all_commits=true&count_private=true&theme=github_dark" width="39%" />
 </p>
 
 ## 📫 Kontak
