@@ -4,7 +4,7 @@ Saya adalah manusia yang sedang belajar dan membangun aplikasi mobile dan web mo
 
 ## 🚀 Tentang Saya
 
-- 🎓 Saat ini saya sedang memperdalam pengembangan aplikasi Flutter dan React
+- 🎓 Saat ini saya sedang memperdalam pengembangan aplikasi Flutter, React, dan Kotlin
 - 🧠 Sedang mempelajari arsitektur front-end dan pengelolaan state menggunakan `Provider`, `GetX`, `Bloc`, `React Hooks`, dan `Zustand`
 - 🌐 Tertarik pada pengembangan mobile dan web apps, serta teknologi open-source
 
