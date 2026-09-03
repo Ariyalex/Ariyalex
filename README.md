@@ -18,19 +18,19 @@ Saya adalah manusia yang sedang belajar dan membangun aplikasi mobile dan web mo
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 
 ## 📈 Statistik GitHub
 
-<p align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=ariyalex&show_icons=true&theme=github_dark" width="48%" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariyalex&theme=github-dark-blue" width="48%" /> -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariyalex&layout=compact&include_all_commits=true&count_private=true&theme=github_dark" width="39%" />
-</p>
-
+![](https://github-readme-stats.shion.dev/api?username=Ariyalex&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ariyalex&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ariyalex&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ## 📫 Kontak
 
 - 📧 Email: [ariya17duta@gmail.com](mailto:ariya17duta@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/ariya-duta-82a400286/](https://www.linkedin.com/in/ariya-duta-82a400286/)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ariya-duta-82a400286/](https://www.linkedin.com/in/ariya-duta)
 - 🌐 Website: [ariyalex.github.io](https://ariyalex.github.io)
 
 ---
